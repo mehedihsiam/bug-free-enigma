@@ -57,8 +57,6 @@ The Simple Process Management App is a web application designed to help users ma
 
 - [Loom Video](https://www.loom.com/share/26e46c9f8fd24d5bb9278fef624ea067?sid=2eb4a546-170a-4ab1-b324-fee2947db37d)
 
-```
-
-```
+---
 
 Submitted By [Mehedi Hasan Siam](https://mehedisiam.xyz/)
